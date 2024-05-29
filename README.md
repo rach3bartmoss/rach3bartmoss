@@ -2,7 +2,7 @@
 
  💫 About me 💫
 
-🎓 I am Douglas Alves, a student at 42porto School, currently living in the vibrant city of Porto, Portugal, also known as Invicta, the city that has never been defeated.  I have interrest in learning and growing my skills in various programming languages, with a particular interest in **C** and **Rust**.
+🎓 I am Douglas Alves, a student at 42porto School, currently living in the city of Porto, Portugal, also known as Invicta, the city that has never been defeated.  I have interrest in learning and growing my skills in various programming languages, with a particular interest in **C** and **Rust**.
 
 📝 I'm currently working on the **Common Core Projects** from the 42 Curriculum, which are primarily written in **C** and **C++**. In addition to my school projects, I'm also working on a solo project: a 🎵**music player written in Rust**.🎵
 
