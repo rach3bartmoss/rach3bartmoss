@@ -1,6 +1,6 @@
-## Hi there 👋
+## Welcome
 
- 💫 About me 💫
+ 💫 About me
 
 🎓 I am Douglas Alves, a student at 42porto School, currently living in Portugal.  I have interrest in learning and growing my skills, with focus on **C** and **Rust**.
 
