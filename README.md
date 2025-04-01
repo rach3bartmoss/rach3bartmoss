@@ -10,6 +10,8 @@
 
 My email: **douglas_scaletta@outlook.com** 📨
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rach3bartmoss&layout=compact&theme=dark)
+
 <!--
 **rach3bartmoss/rach3bartmoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
