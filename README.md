@@ -2,7 +2,7 @@
 
  💫 About me
 
-🎓 I am Douglas Alves, a student at 42School, currently living in Portugal.  I have interrest in learning and growing my skills, with focus on **C** and **Python**.
+🎓 I am Douglas Alves, a student at 42School, currently living in Portugal. I admire how software works in its deepest layers and the marvelous things we can do with it! My current stack is C, C++, Python and Rust. I am willing to collaborate on projects where I can make a difference!
 
 📝 I'm currently working on the **Common Core Projects** from the 42 Curriculum, which are primarily written in **C** and **C++**.
 
